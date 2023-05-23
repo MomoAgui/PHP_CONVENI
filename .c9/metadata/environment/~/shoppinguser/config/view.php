@@ -1,0 +1,1 @@
+{"mime":"application/octet-stream","filter":false,"title":"view.php","tooltip":"~/shoppinguser/config/view.php","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1649770669000,"hash":"2f9e73c59f7a34d048a7246cd1414d285638789d"}

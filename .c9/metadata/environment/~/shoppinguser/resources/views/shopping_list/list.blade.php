@@ -1,0 +1,1 @@
+{"mime":"application/octet-stream","filter":false,"title":"list.blade.php","tooltip":"~/shoppinguser/resources/views/shopping_list/list.blade.php","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1684627018766,"hash":"62405e845dddac8cf68423a1667b13f1053fb656"}

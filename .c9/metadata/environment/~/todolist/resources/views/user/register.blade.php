@@ -1,0 +1,1 @@
+{"mime":"application/octet-stream","filter":false,"title":"register.blade.php","tooltip":"~/todolist/resources/views/user/register.blade.php","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1684504884921,"hash":"73f66e2aa35dfb1d14372579b9bafaf14489713c"}

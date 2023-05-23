@@ -1,0 +1,1 @@
+{"mime":"application/octet-stream","filter":false,"title":"FrontAuthUser.php","tooltip":"~/shoppinguser/database/seeders/FrontAuthUser.php","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1684816927070,"hash":"93f44f6442957af68e5437c8bb9c226ba4cd2afe"}

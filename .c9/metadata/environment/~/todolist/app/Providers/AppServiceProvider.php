@@ -1,0 +1,1 @@
+{"mime":"application/octet-stream","filter":false,"title":"AppServiceProvider.php","tooltip":"~/todolist/app/Providers/AppServiceProvider.php","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1684627018769,"hash":"741ce16464b415759a6c900bbb6949b7abaaf399"}
